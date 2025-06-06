@@ -1,0 +1,96 @@
+What is the capital of Spain?
+Berlin
+Madrid
+Paris
+Rome
+1
+Which planet is the closest to the sun?
+Earth
+Mercury
+Jupiter
+Venus
+1
+Who was the Ancient Greek God of the Sun?
+Ares
+Poseidon
+Apollo
+Artemis
+2
+How many dots appear on a pair of dice?
+50
+46
+38
+42
+3
+What city is known as The Eternal City?
+Roma
+Bucharest
+London
+Amsterdam
+0
+On which continent would you find the world's largest desert?
+Africa
+Australia
+Antarctica
+Asia
+2
+What is the capital of Ireland?
+Dublin
+London
+Paris
+Rome
+0
+How many European capitals does the Danube flow through?
+5
+6
+3
+4
+3
+On which continent would you find the city of Baku?
+Europe
+Asia
+America
+Australia
+1
+In what year did World War II end?
+1943
+1944
+1945
+1946
+2
+Which country has won the most World Cups?
+Brazil
+UK
+France
+Spain
+0
+What color are Mickey Mouse's shoes?
+Red
+Black
+Blue
+Yellow
+3
+How many colors are in the rainbow?
+8
+6
+7
+9
+2
+What is the name of the dog who was one of the first animals in space?
+Rosco
+Laika
+Layla
+Leo
+1
+When was the Romanian Revolution?
+1989
+1990
+1998
+1988
+0
+What is 2+3?
+10
+11
+12
+5
+3
